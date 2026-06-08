@@ -256,6 +256,7 @@ This is starting point for you to know the options available to write your class
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Moesif](https://www.moesif.com/): Understand API Usage and Monitor API KPIs.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz): On-chain reputation and identity monitoring for AI agent APIs. MCP server (`intel.twzrd.xyz/mcp`) exposes `score_agent` and `preflight_check` tools for verifying agent wallet trustworthiness, plus `get_trust_receipt` (HTTP 402) for signed on-chain behavior proofs. Useful for monitoring and gating agent-to-agent API access.
 
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
